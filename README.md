@@ -3,7 +3,7 @@ Sentence generation app
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Generate Page</title>
+  <title>Generator</title>
   <style>
     /* Add some basic styling */
     body {
