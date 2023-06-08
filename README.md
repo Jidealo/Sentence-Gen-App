@@ -1,5 +1,3 @@
-
-Sentence generation app
 <!DOCTYPE html>
 <html>
 <head>
