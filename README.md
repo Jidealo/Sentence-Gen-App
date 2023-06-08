@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Generator</title>
@@ -19,7 +18,7 @@
   </style>
 </head>
 <body>
-  <h1>Generate Page</h1>
+  <h1>G</h1>
   <form>
     <input type="text" id="inputText" placeholder="Enter text">
     <br><br>
