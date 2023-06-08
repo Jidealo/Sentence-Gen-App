@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Sentence Gen. APP</title>
+  <title>Generate Page</title>
   <style>
     /* Body styles */
     body {
